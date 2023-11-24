@@ -1,4 +1,4 @@
-
+// There is a cleaning robot which is cleaning a rectangular grid of size NxM, represented by array R consisting of N strings.
 
 class Solution
 {
