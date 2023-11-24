@@ -1,5 +1,5 @@
 // There is a cleaning robot which is cleaning a rectangular grid of size NxM, represented by array R consisting of N strings.
-
+// 3rd problem of codility test (NAB Starcamp 2023)
 class Solution
 {
 	//helper method return the change direction of the robot
